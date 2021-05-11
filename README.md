@@ -4,7 +4,7 @@ HunterSearch by ĐαɾƙSσυʅ
 </p>
 
 ## Information
-Tool as a base using the hunter.io website that searches for email and names of people in a given domain, facilitating and helping pentesters
+Tool as a base using the hunter.io website that searches for emails and names of people in a given domain, facilitating and helping pentesters
 
 ## Usage
 
